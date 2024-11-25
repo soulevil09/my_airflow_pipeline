@@ -1,0 +1,12 @@
+venv/
+__pycache__;/
+*.pyc
+*.pyo
+*.vscode/
+*.idea/
+*.log
+*.tmp
+airflow.db
+*.pid
+*.DS_Store
+Thumbs.db
